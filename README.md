@@ -1,6 +1,6 @@
 # Code Challenge
 
-This app was built to respond to the code challenge of Adviqo.
+This app was built to respond to the code challenge.
 
 ## Frameworks
 
