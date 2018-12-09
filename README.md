@@ -1,6 +1,6 @@
-# Code Challenge
+# Introduction
 
-This app was built to respond to the code challenge.
+This app was built to pratice the React framework.
 
 ## Frameworks
 
